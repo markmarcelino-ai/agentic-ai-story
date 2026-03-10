@@ -52,3 +52,10 @@ This project is part of a broader exploration of **AI-assisted development and e
 • Game development prototypes  
 • No-code applications  
 • AI-assisted writing projects
+
+## Follow the Development
+
+Updates and ideas are occasionally shared on TikTok.
+
+https://tiktok.com/@agentic.story
+agentic-rise-ai.base44.app
